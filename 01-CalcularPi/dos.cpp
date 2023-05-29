@@ -16,6 +16,6 @@ double pi_original(int iteraciones) {
 
 int main() {
     cout << setprecision(7);
-    cout << pi_original(1000000) << endl;
+    cout << pi_original(1000000) << endl; // 3.141592
     return 0;
 }
